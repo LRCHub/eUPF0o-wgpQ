@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "空と遊園地",
+  "base_artist": "藍空と月",
+  "createdAt": "2026-02-21T07:11:03.081531Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空と遊園地",
+      "artist": "藍空と月",
+      "has_synced": false,
+      "path": "select/pl_01_空と遊園地_藍空と月.txt"
+    }
+  ]
+}
